@@ -1,2 +1,3 @@
-# git-session-31
+
+ikinci açıklma# git-session-31
 açıklama
